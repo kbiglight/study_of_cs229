@@ -1,2 +1,2 @@
-# Study cs231n and Take notes while studying.
+# Study cs2 and Take notes while studying.
 
